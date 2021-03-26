@@ -1,0 +1,89 @@
+.review__title{
+    font-family: 'Oswald',sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 53px;
+    text-transform: uppercase;
+    color: #000000;
+    text-align: center;
+    margin: 150px 0 64px 0;
+}
+.review__item{
+    width: 350px;
+    height: 259px;
+    background-color: #F7F7F7;
+}
+.review__img{
+    margin: 28px 0 20px 28px;
+}
+.review__text{
+    font-family: 'Open Sans',sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 21px;
+    color: #999999;
+    margin: 0 30px  ;
+    width: 290px;
+}
+.review__name{
+    font-family: 'Oswald',sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 21px;
+    line-height: 31px;
+    letter-spacing: 0.02em;
+    color: #000000;
+    margin: 30px 0 150px 0 ;
+}
+.review__textin{
+    color:  #F7654A;
+}
+.review__bottom {
+    width: 100%;
+    background-color: #f7654a;
+}
+.revbottom__row{
+    justify-content: space-between;
+}
+.revbottom__title {
+    font-family: "Oswald", sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 71px;
+    letter-spacing: 0.02em;
+    color: #ffffff;
+    margin:30px 0 0  0;
+}
+.revbottom__suptitle {
+    font-family: 'Oswald',sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 36px;
+    letter-spacing: 0.02em;
+    color: #ffffff;
+    margin: 20px 0 ;
+    }
+    .revbottom__button{
+    font-family: 'Oswald',sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 21px;
+    letter-spacing: 0.05em;
+    text-align: center;
+    color: #000000;
+    margin: 73px 0;
+    padding: 14px 30px 14px 30px;
+    background-color: #FFFFFF;
+    border: none;
+    outline: none;
+    display: flex;
+    align-items: center;
+}
+.revbottom__img{
+    padding-right: 15px;;
+}

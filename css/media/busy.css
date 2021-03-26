@@ -1,0 +1,16 @@
+@media screen and (max-width:768px){
+    .busy__title{
+        font-size: 50px;
+    }
+    .busy__item{
+        width: 100%;
+        height: 100%;
+        margin-top: 80px;
+    }
+    .busy__name{
+        margin-left: 100px;
+    }
+    .busy__image{
+        margin-left: 155px;
+    }
+}

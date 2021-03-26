@@ -1,0 +1,41 @@
+@media screen and (max-width:768px){
+    .review__title{
+        font-size: 50px;
+    }
+    .review__row{
+        flex-direction: column;
+    }
+    .review__col{
+        margin: auto;
+    }
+    .review__name{
+        text-align: center;
+    }
+    .revbottom__row{
+        flex-direction: column;
+        align-items: center;
+    }
+    .revbottom__title{
+        font-size: 55px;
+        text-align: center;
+    }
+    .revbottom__suptitle{
+        font-size: 25px;
+        text-align: center;
+    }
+    .revbottom__button{
+        font-size: 30px;
+        padding: 28px 45px;
+        margin-top: 15px;
+        margin-bottom: 30px;
+    }
+    .revbottom__img{
+        width: 40px;
+        margin: auto;
+        padding: 0 0 10px 0;
+    }
+    .revbottom__button{
+        flex-direction: column;
+    }
+      
+}

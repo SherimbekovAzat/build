@@ -1,0 +1,33 @@
+.hero{
+    background-image: url(../../img/jpg/Rectangle.jpg);
+    width: 100%;
+    height: 100vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.hero__title{
+    font-family: 'Oswald',sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 64px;
+    line-height: 95px;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    width: 734px;
+    margin:0 auto;
+    padding: 192px 0 0 0;
+}
+.hero__suptitle{
+    font-family: 'Oswald',sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 27px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    margin: 35px auto 170px auto;
+}

@@ -1,0 +1,15 @@
+@media screen and (max-width:768px){
+    .footer__title{
+        font-size: 50px;
+    }
+    .footer__text{
+        width: 200px;
+        margin: 10px auto 50px auto;
+    }
+    .footer__row{
+        flex-direction: column;
+    }
+    .footer__content{
+        margin: 10px auto;
+    }
+}

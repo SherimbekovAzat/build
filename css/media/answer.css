@@ -1,0 +1,14 @@
+@media screen and (max-width:768px){
+    .answer__title{
+        font-size: 50px;
+    }
+    .answer__suptitle{
+        text-align: center;
+    }
+    .answer__text{
+        font-size: 20px;
+        width: 600px;
+        margin: auto;
+        text-align: center;
+    }
+}

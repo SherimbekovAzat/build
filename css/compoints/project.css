@@ -1,0 +1,131 @@
+.years__row {
+    justify-content: space-around;
+    padding: 56px 0 ;
+}
+.years {
+    background-color: #f7f7f7;
+    margin: -90px auto 0 auto;
+}
+.project__number {
+    font-family: "Oswald", sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 72px;
+    line-height: 107px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #f7654a;
+}
+.project__year {
+    font-family: "Oswald", sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 53px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #000000;
+}
+.project__narynke {
+    font-family: "Oswald", sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 27px;
+    text-align: center;
+    color: #999999;
+}
+.project__content {
+    display: flex;
+    flex-direction: column;
+}
+.project__title {
+    font-family: "Oswald", sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 53px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #404149;
+    margin: 100px auto 60px auto;
+    }
+.project__line {
+    width: 55px;
+    height: 6px;
+    background-color: #f7654a;
+    margin: 45px 0 15px 0;
+}
+.project__suptitle {
+    font-family: "Oswald", sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 36px;
+    color: #404149;
+    margin-bottom: 20px;
+}
+.project__text {
+    font-family: "Open Sans", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 22px;
+    color: #999999;
+    width: 350px;
+    margin-bottom: 150px;
+}
+.project__row {
+     justify-content: space-between;
+}
+.project__bottom {
+   
+    width: 100%;
+    background-color: #f7654a;
+
+}
+.prbottom__button{
+    display: flex;
+    align-items: center;
+}
+.prbottom__row{
+    justify-content: space-between;
+}
+.prbottom__title {
+    font-family: "Oswald", sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 71px;
+    letter-spacing: 0.02em;
+    color: #ffffff;
+    margin:30px 0 0  0;
+}
+.prbottom__suptitle {
+    font-family: 'Oswald',sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 36px;
+    letter-spacing: 0.02em;
+    color: #ffffff;
+    margin: 20px 0 ;
+    }
+    .prbottom__button{
+    font-family: 'Oswald',sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 21px;
+    letter-spacing: 0.05em;
+    text-align: center;
+    color: #000000;
+    margin: 73px 0;
+    padding: 14px 30px 14px 30px;
+    background-color: #FFFFFF;
+    border: none;
+    outline: none;
+}
+.prbottom__img{
+    padding-right: 15px;;
+}
