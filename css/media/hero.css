@@ -6,6 +6,14 @@
     .hero__suptitle{
         font-size: 30px;
         line-height: 35px;
-        padding-bottom: px;
+    }
+}
+@media screen  and (max-width:375px){
+    .hero__title{
+        width: auto;
+    }
+    .hero__suptitle{
+        font-size: 30px;
+        line-height: 38px;
     }
 }

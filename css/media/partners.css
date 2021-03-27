@@ -10,3 +10,11 @@
     margin: 80px;
     }
 }
+@media screen and (max-width:375px){
+    .partners__title{
+        font-size: 50px;
+    }
+    .partners__img{
+        margin: 30px;
+    }
+}
