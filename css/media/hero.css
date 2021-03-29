@@ -11,12 +11,12 @@
 @media screen  and (max-width:378px){
     .hero__title{
         width: 100%;
-        font-size: 40px;
-        line-height: 55px;
+        font-size: 60px;
+        line-height: 100px;
         padding: 160px 0 0 0 ;
     }
     .hero__suptitle{
-        font-size: 18px;
+        font-size: 22px;
         line-height: 38px;
     }
 }
