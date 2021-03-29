@@ -3,6 +3,6 @@
         padding: 0px 35px ; 
     }
 }
-@media screen and (max-width:375px ){
+@media screen and (min-width:375px ){
 
 }

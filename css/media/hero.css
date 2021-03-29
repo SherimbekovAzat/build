@@ -8,9 +8,11 @@
         line-height: 35px;
     }
 }
-@media screen  and (max-width:375px){
+@media screen  and (min-width:375px){
     .hero__title{
         width: auto;
+        font-size: 60px;
+        line-height: normal;
     }
     .hero__suptitle{
         font-size: 30px;
