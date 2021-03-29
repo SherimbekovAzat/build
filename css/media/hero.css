@@ -8,14 +8,15 @@
         line-height: 35px;
     }
 }
-@media screen  and (min-width:375px){
+@media screen  and (max-width:378px){
     .hero__title{
-        width: auto;
-        font-size: 60px;
-        line-height: normal;
+        width: 100%;
+        font-size: 40px;
+        line-height: 55px;
+        padding: 160px 0 0 0 ;
     }
     .hero__suptitle{
-        font-size: 30px;
+        font-size: 18px;
         line-height: 38px;
     }
 }
