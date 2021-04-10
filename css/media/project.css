@@ -88,3 +88,31 @@
         flex-direction: column;
     }
 }
+@media screen and (max-width:390px){
+    .prbottom__row{
+        flex-direction: column;
+        align-items: center;
+    }
+    .prbottom__title{
+        font-size: 45px;
+        text-align: center;
+    }
+    .prbottom__suptitle{
+        font-size: 17px;
+        text-align: center;
+    }
+    .prbottom__button{
+        font-size: 30px;
+        padding: 28px 45px;
+        margin-top: 15px;
+        margin-bottom: 30px;
+    }
+    .prbottom__img{
+        width: 40px;
+        margin: auto;
+        padding: 0 0 10px 0;
+    }
+    .prbottom__button{
+        flex-direction: column;
+    }
+}

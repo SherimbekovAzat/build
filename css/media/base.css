@@ -8,3 +8,8 @@
         width: 100%;
     }
 }
+@media screen and (max-width:390px){
+    .col-3,.col-4 {
+        width: 100%;
+    }
+}

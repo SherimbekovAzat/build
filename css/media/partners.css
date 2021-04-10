@@ -27,3 +27,20 @@
         margin: 30px 30px 80px 30px;
     }
 }
+@media screen and (max-width:390px){
+    .partners__title{
+        font-size: 50px;
+    }
+    .partners__img{
+        margin: 30px;
+    }
+    .partners__img:nth-child(1){
+        margin: 15px 30px 30px 30px;
+    }
+    .partners__img:nth-child(4){
+        margin: 30px;
+    }
+    .partners__img:nth-child(5){
+        margin: 30px 30px 80px 30px;
+    }
+}

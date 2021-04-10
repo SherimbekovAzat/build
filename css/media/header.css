@@ -8,3 +8,8 @@
         padding: 0px 35px ; 
     }
 }
+@media screen and (max-width:390px ){
+    .header__row{
+        padding: 0px 35px ; 
+    }
+}

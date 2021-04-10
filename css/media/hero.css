@@ -20,3 +20,15 @@
         line-height: 38px;
     }
 }
+@media screen  and (max-width:390px){
+    .hero__title{
+        width: 100%;
+        font-size: 40px;
+        line-height: 58px;
+        padding: 160px 0 0 0 ;
+    }
+    .hero__suptitle{
+        font-size: 18px;
+        line-height: 38px;
+    }
+}
