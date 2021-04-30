@@ -8,10 +8,52 @@
     height: 50px;
     background-color:  #F7654A;
     margin: 30px 0 0 0 ;
-}
-.nav__menu{
-    padding: 15px 15px 11px 14px;
+    position: fixed;
+    right: 36px;
+    z-index: 100;
+    top: 3px;
 }
 .header__logo{
     margin-top: 20px;
+}
+.ham{
+    border: none;
+    outline: none;
+    background-color: transparent;
+    position: fixed;
+    right: 43px;
+    z-index: 100;
+    top: 7%;
+}
+.close{
+    display: none;
+    position:fixed;
+    top: 10px;
+    right: 20px;
+    
+}
+.close,.show{
+    width: 25px;
+    height: 25px;
+}
+.menu{
+    position: fixed;
+    top: 0;
+    right: 0;
+    width: 25%;
+    height: 100vh;
+    background-color: #F7654A;
+    padding: 30px;
+    transform: translateY(-100%);
+    transition: 0.4s;
+}
+.menu__item{
+    color: black;
+    font-size: 24px;
+    margin: 10px 0;
+    font-weight: 500;
+    list-style: none;
+}
+.showMenu{
+    transform: translateY(0);
 }
